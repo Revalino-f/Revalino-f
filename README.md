@@ -97,10 +97,6 @@ Halo! Saya Revalino, mahasiswa **Teknologi Game** di **Politeknik Elektronika Ne
   Made with 💙 by Revalino | Proudly from PENS 🚀
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Revalino-f/Revalino-f/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Revalino-f/Revalino-f/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Revalino-f/Revalino-f/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Revalino-f/Revalino-f/output/snake.svg" alt="Snake animation" />
 
 ###

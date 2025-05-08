@@ -1,7 +1,7 @@
 <p align="center">
   <img src="banner.png" alt="Banner Image" width="100%" />
 </p>
-<h1 align="center">Hi, I'm Revalino 👋</h1>
+<h1 align="center">Hi, I'm Reval 👋</h1>
 
 <p align="center">
   🎮 Mahasiswa Teknologi Game @ <strong>PENS</strong>

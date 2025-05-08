@@ -104,4 +104,3 @@ Halo! Saya Revalino, mahasiswa **Teknologi Game** di **Politeknik Elektronika Ne
 </picture>
 
 ###
-

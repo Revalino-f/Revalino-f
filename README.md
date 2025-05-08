@@ -96,3 +96,8 @@ Halo! Saya Revalino, mahasiswa **Teknologi Game** di **Politeknik Elektronika Ne
 <p align="center">
   Made with 💙 by Revalino | Proudly from PENS 🚀
 </p>
+
+<img src="https://raw.githubusercontent.com/Revalino-f/Revalino-f/output/snake.svg" alt="Snake animation" />
+
+###
+

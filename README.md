@@ -77,16 +77,16 @@ Halo! Saya Revalino, mahasiswa **Teknologi Game** di **Politeknik Elektronika Ne
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="https://instagram.com/revalino" target="_blank">
+  <a href="https://www.instagram.com/repal.co/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/@revalino" target="_blank">
+  <a href="https://youtube.com/@repalnich?si=0Xy5ZDOCSncbOSms" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/revalino" target="_blank">
+  <a href="https://www.facebook.com/revalino.firdaus.9/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="mailto:revalinof57@email.com">
+  <a href="mailto:revalinof57@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>

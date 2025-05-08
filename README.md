@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/id/4/44/Logo_PENS.png" alt="PENS Logo" width="120"/>
-</p>
-
 <h1 align="center">Hi, I'm Revalino 👋</h1>
 
 <p align="center">
-  🎮 Mahasiswa Teknologi Game @ <strong>PENS</strong> <br>
+  🎮 Mahasiswa Teknologi Game @ <strong>PENS</strong>
+  <img src="https://upload.wikimedia.org/wikipedia/id/4/44/Logo_PENS.png" alt="PENS Logo" width="22" style="vertical-align: middle;"/>
+  <br>
   💻 Web & Game Developer | 🧠 Suka Tantangan | 🎯 Unity Enthusiast
 </p>
 
@@ -49,14 +47,15 @@ Halo! Saya Revalino, mahasiswa **Teknologi Game** di **Politeknik Elektronika Ne
 
 ---
 
-## 🎮 Mini Game: Snake ⭐
+## 🏆 GitHub Trophy
 
-> _(Soon! Game HTML5 mini akan tayang di sini)_  
-> 🔗 [Klik untuk main](https://Revalino-f.github.io/minigame) _(link aktif nanti setelah di-upload ke GitHub Pages)_
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Revalino-f&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Revalino-f&show_icons=true&theme=tokyonight&hide=prs" height="165"/>
@@ -65,10 +64,29 @@ Halo! Saya Revalino, mahasiswa **Teknologi Game** di **Politeknik Elektronika Ne
 
 ---
 
+## 🎮 Mini Game: Snake ⭐
+
+> _(Soon! Game HTML5 mini akan tayang di sini)_  
+> 🔗 [Klik untuk main](https://Revalino-f.github.io/minigame) _(link aktif nanti setelah di-upload ke GitHub Pages)_
+
+---
+
 ## 📫 Contact Me
 
-- 🌐 Portfolio Website: [revalino.vercel.app](https://revalino.vercel.app) _(Coming Soon!)_
-- ✉️ Email: [revalinof57@email.com](mailto:revalino@email.com)
+<p align="left">
+  <a href="https://instagram.com/revalino" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@revalino" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/revalino" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="mailto:revalinof57@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 

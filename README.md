@@ -1,16 +1,77 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/id/4/44/Logo_PENS.png" alt="PENS Logo" width="120"/>
+</p>
 
-<!--
-**Revalino-f/Revalino-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Revalino 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🎮 Mahasiswa Teknologi Game @ <strong>PENS</strong> <br>
+  💻 Web & Game Developer | 🧠 Suka Tantangan | 🎯 Unity Enthusiast
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;Web+%26+Game+Dev+in+Progress...;Built+with+💙+and+Unity!" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Revalino-f&label=👁+Views&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
+
+---
+
+## 🚀 Tentang Saya
+
+Halo! Saya Revalino, mahasiswa **Teknologi Game** di **Politeknik Elektronika Negeri Surabaya (PENS)**.
+
+- 🌐 Menguasai **HTML**, **CSS**, **JavaScript**, **PHP**, **Tailwind**, **MySQL**, **Git**, dan **Node.js**
+- 🎮 Pengembangan game menggunakan **Unity (C#)**
+- 🎨 Bisa desain dengan **Canva** & **Photoshop**
+- 🎬 Editing video menggunakan **CapCut**
+- 🛠️ Aktif membangun **website pribadi** dan membuat **game-project** di GitHub
+- 🔗 Link ke **portfolio website** akan ditambahkan segera
+
+---
+
+## 💡 Rencana & Proyek
+
+- [x] Buat halaman portofolio pribadi
+- [x] Integrasi dengan GitHub Pages
+- [ ] Buat game mini HTML5 (di `minigame`)
+- [ ] Publikasi game Unity pertamaku
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,unity,cs,figma,github" />
+</p>
+
+---
+
+## 🎮 Mini Game: Snake ⭐
+
+> _(Soon! Game HTML5 mini akan tayang di sini)_  
+> 🔗 [Klik untuk main](https://Revalino-f.github.io/minigame) _(link aktif nanti setelah di-upload ke GitHub Pages)_
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Revalino-f&show_icons=true&theme=tokyonight&hide=prs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revalino-f&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 📫 Contact Me
+
+- 🌐 Portfolio Website: [revalino.vercel.app](https://revalino.vercel.app) _(Coming Soon!)_
+- ✉️ Email: [revalinof57@email.com](mailto:revalino@email.com)
+
+---
+
+<p align="center">
+  Made with 💙 by Revalino | Proudly from PENS 🚀
+</p>
